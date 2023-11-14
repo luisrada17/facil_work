@@ -1,4 +1,4 @@
-
+//ARCHIVO CON CODIGO QUE NO SE SUBE A GIT PORQUE HACEN PARTE DEL VENDOR//
 {{-- Esto es para Fácil Work
     <div class="w-1/2 p-4 m-auto text-justify">
     <div class="mb-10">
